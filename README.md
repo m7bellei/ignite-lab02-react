@@ -7,5 +7,5 @@ https://evento.rocketseat.com.br/ignite-lab/episodios/react/abertura/edicao/1
 // Figma
 https://www.figma.com/community/file/1120711251998877938
 
-:To do
+To do:
 - Responsividade
